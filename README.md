@@ -1,5 +1,8 @@
 # Cloudinary Node.js SDK Quick Start
-Cloudinary Node.js SDK example for the Cloudinary documentation.
+
+This small Node.js project shows the finished result of the [Node.js SDK Quick Start](https://cloudinary.com/documentation/node_quickstart) instructions provided in the Cloudinary documentation.
+
+Feel free to fork this project and use it as a quick way to get started playing with the Cloudinary Node.js SDK. However, keep in mind that the intention of this code is to help developers quickly get started using several common Cloudinary features. It doesn't necessarily employ coding best practices and the code isn't intended for production.
 
 ## Running the script
 
